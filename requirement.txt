@@ -1,8 +1,0 @@
-Babel
-matplotlib
-matplotlib.pyplot
-numpy
-pandas
-seaborn
-streamlit
-streamlit-option-menu
